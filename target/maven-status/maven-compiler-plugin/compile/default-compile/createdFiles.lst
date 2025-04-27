@@ -1,0 +1,6 @@
+com\example\calllog\repository\CallLogRepository.class
+com\example\calllog\CalllogApplication.class
+com\example\calllog\model\CallLog.class
+com\example\calllog\service\CallLogService.class
+com\example\calllog\controller\CallLogController.class
+com\example\calllog\CalllogApplication$1.class
